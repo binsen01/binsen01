@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @binsen01
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning html/css
-- 💞️ I’m looking to collaborate on webcrawler
+- 👀 
+- 🌱 
+- 💞️ 
 - 📫 How to reach me ...
 
 <!---
